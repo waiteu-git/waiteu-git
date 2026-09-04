@@ -23,6 +23,7 @@
 ### 連絡
 
 お仕事のご相談・ご質問は **contact@waiteu.dev** へ。
+**クラウドワークス／ランサーズからお越しの方は、規約に基づき各サービス内のメッセージでご連絡ください。**
 サイト: **[waiteu.dev](https://waiteu.dev/)** ／ X: **[@waiteu_dev](https://x.com/waiteu_dev)**
 
 ---
