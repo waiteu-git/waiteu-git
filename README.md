@@ -9,8 +9,8 @@
 
 | | 何をするもの | 状態 |
 |---|---|---|
-| **リタス（Litus）** | 大学の学習システム2つ（課題・時間割・出席・掲示）をスマートフォン1つにまとめるアプリ | App Store 審査通過・Google Play 内部テスト配信中 |
-| **[LETUS Task Watcher](https://github.com/waiteu-git/lms-task-watcher)** | 学習システムから課題の締切を集めて期限前に通知するブラウザ拡張 | Chrome / Edge で公開中（利用者 約70人） |
+| **リタス（Litus）** | 大学の学習システム2つ（課題・時間割・出席・掲示）をスマートフォン1つにまとめるアプリ | App Store で配信中・Google Play でオープンテスト配信中 |
+| **[LETUS Task Watcher](https://github.com/waiteu-git/lms-task-watcher)** | 学習システムから課題の締切を集めて期限前に通知するブラウザ拡張 | Chrome / Edge で公開中 |
 | **[litus-source](https://github.com/waiteu-git/litus-source)** | リタスのソース公開ミラー（監査用） | 公開中 |
 | **[waiteu.dev](https://github.com/waiteu-git/waiteu-dev)** | 事業サイト | 公開中 |
 
