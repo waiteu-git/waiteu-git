@@ -5,10 +5,8 @@
 
 主に **React Native / Expo / TypeScript**。
 
-### 作っているもの
+### 作品
 
-| | 何をするもの | 状態 |
-|---|---|---|
 | **リタス（Litus）** | 大学の学習システム2つ（課題・時間割・出席・掲示）をスマートフォン1つにまとめるアプリ | App Store・Google Play で配信中 |
 | **[LETUS Task Watcher](https://github.com/waiteu-git/lms-task-watcher)** | 学習システムから課題の締切を集めて期限前に通知するブラウザ拡張 | Chrome / Edge で公開中 |
 | **[litus-source](https://github.com/waiteu-git/litus-source)** | リタスのソース公開ミラー（監査用） | 公開中 |
