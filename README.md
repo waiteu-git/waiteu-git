@@ -1,32 +1,26 @@
 ## waiteu
 
-モバイルアプリとブラウザ拡張を、企画からストア審査の通過・公開後の運用まで一人で作っています。
-東京理科大学在学。個人事業主として開業しています（2026年7月）。
+東京理科大学の1年生です。大学に入ってから Claude Code と一緒にアプリを作り始め、
+日常で見つけた不便や「これがあったらいいな」を形にしています。
 
-主に React Native / Expo / TypeScript で作っています。
-
-### 作品
+### 作ったもの
 
 |　|　|　|
 |---|---|---|
-| **リタス（Litus）** | 大学の学習システム2つ（課題・時間割・出席・掲示）をスマートフォン1つにまとめるアプリ | App Store・Google Play で配信中 |
-| **[LETUS Task Watcher](https://github.com/waiteu-git/lms-task-watcher)** | 学習システムから課題の締切を集めて期限前に通知するブラウザ拡張 | Chrome / Edge で公開中 |
-| **[litus-source](https://github.com/waiteu-git/litus-source)** | リタスのソースコード（Apache-2.0） | 公開中 |
-| **[Skimlight](https://github.com/waiteu-git/skimlight)** | 長い要項を、締切・必須・数量・禁止・食い違いに色分けして読む道具。判定はしません | 開発中 |
-| **[Michizure](https://github.com/waiteu-git/michizure)** | 旅行の費用をみんなで記録し、最後に誰が誰にいくら払えばよいかを出すウェブサービス | 開発中 |
-| **[waiteu.dev](https://github.com/waiteu-git/waiteu-dev)** | 事業サイト | 公開中 |
+| **リタス（Litus）** | 課題の締め切りや時間割をまとめる、大学生活のためのアプリ | App Store・Google Play で配信中（[ソース](https://github.com/waiteu-git/litus-source)） |
+| **[LETUS Task Watcher](https://github.com/waiteu-git/lms-task-watcher)** | 課題の締め切りを期限前に知らせるブラウザ拡張 | Chrome / Edge で公開中 |
+| **[Skimlight](https://github.com/waiteu-git/skimlight)** | 長い要項を、締切・必須・禁止などに色分けして読む道具 | 公開中 |
+| **[Michizure](https://github.com/waiteu-git/michizure)** | 旅行の費用をみんなで記録して、最後の精算を出すウェブサービス | 開発中 |
 
-### 考えていること
+### 大事にしていること
 
-- **「動くもの」ではなく「出せるもの」を作る。** ストアの審査を実際に通し、差し戻しにも対応してきました。公開までに何が要るかを最初から見込んで設計します。
-- **壊さないことを優先する。** 変更の影響範囲を実測し、自動テストと段階的な公開で確かめながら進めます。速さより、学期の途中で止まらないことを大事にしています。
-- **説明できる状態を保つ。** 設計の意図と判断の理由を書き残し、後から読む人がそれを辿れるようにしています。
+- 作って終わりにせず、使ってもらいながら直し続けること。
+- 学期の途中で止まらないこと。
+- なぜそう作ったのかを、後から読む人が辿れるように書き残すこと。
 
 ### 連絡
 
-お仕事のご相談・ご質問は **contact@waiteu.dev** へ。
-**クラウドワークス／ランサーズからお越しの方は、規約に基づき各サービス内のメッセージでご連絡ください。**
-サイト: [waiteu.dev](https://waiteu.dev/) ／ X: [@waiteu_dev](https://x.com/waiteu_dev)
+contact@waiteu.dev ／ X: [@waiteu_dev](https://x.com/waiteu_dev)
 
 ---
 
